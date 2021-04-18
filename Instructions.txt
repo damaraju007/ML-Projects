@@ -1,0 +1,32 @@
+1) Mall_customers.csv - Clustering problem
+
+	- Problem Statement - You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
+
+
+
+		Data Description:
+
+		CustomerID - Unique ID assigned to the customer
+
+		Gender - Gender of the customer
+
+		Age - Age of the customer
+
+		Annual Income (k$) - Annual Income of the customer
+
+		Spending Score (1-100) - Score assigned by the mall based on customer behaviour and spending nature
+		
+2) movies.csv & rating.csv - PCA
+
+	- Objective - Perform PCA after merging the two datasets on movie ID
+	
+	
+3) Electric_production - Time series Analysis
+
+	-  Objective - Perform all Time series algorithms u have learnt so far on the dataset provided.
+	
+4) Attacks on Political Leaders in Pakistan.csv - Classification
+
+	- Objective - 'Target Status' is the dependent variable. Perform various classification algorithms on the given dataset and compare results
+
+
